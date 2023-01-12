@@ -1,0 +1,30 @@
+[
+    {
+        "cota": "FFFF5543",
+        "nombre": "edificio",
+        "precio": 100.0,
+        "status": "E",
+        "deleted": false
+    },
+    {
+        "cota": "AAAA5232",
+        "nombre": "casas",
+        "precio": 43.0,
+        "status": "M",
+        "deleted": false
+    },
+    {
+        "cota": "GDKD5321",
+        "nombre": "pasta",
+        "precio": 555.32,
+        "status": "M",
+        "deleted": false
+    },
+    {
+        "cota": "ABCH9604",
+        "nombre": "asdasasd",
+        "precio": 30.0,
+        "status": "E",
+        "deleted": false
+    }
+]
